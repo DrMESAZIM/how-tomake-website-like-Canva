@@ -1,0 +1,19 @@
+/* Global rules */
+:root {  --mainColor: #dee1e3;}
+* {  -webkit-box-sizing: border-box;  -moz-box-sizing: border-box;
+  box-sizing: border-box;}
+body {  font-family: "Open Sans", sans-serif;}
+
+ul {  list-style: none;  margin: 0;  padding: 0;}
+
+a {  text-decoration: none;}
+.container {  padding-left: 15px;  padding-right: 15px;  margin-left: auto;
+  margin-right: auto;}
+
+/* build header */
+
+/* Start section Part */
+section {  margin-top: 70px;}
+
+/* Start Footer Part */
+
